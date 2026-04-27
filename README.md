@@ -33,8 +33,8 @@ https://youtu.be/Dag6GWJk9JY
 ---
 
 ## 📁 Project Files
-- `project1vlan.pkt` → Packet Tracer file  
-- `Topology.png` → Network diagram  
+-  project1vlan.pkt → Packet Tracer file  
+-  Topology.png  → Network diagram  
 
 ---
 
