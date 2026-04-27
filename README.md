@@ -13,7 +13,8 @@ This project demonstrates VLAN segmentation and inter-VLAN communication using C
 - Connectivity verification using ICMP (ping)  
 
 ## 🎥 Demo Video
-https://youtu.be/UrB2OQoUbkU
+https://youtu.be/Dag6GWJk9JY
+
 
 ## 📊 Result
 ✔ Successful inter-VLAN communication achieved  
