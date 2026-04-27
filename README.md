@@ -1,24 +1,43 @@
-#  VLAN Configuration with Inter-VLAN Routing
+# 🔷 VLAN Configuration with Inter-VLAN Routing
 
-##  Overview
-This project demonstrates VLAN segmentation and inter-VLAN communication using Cisco Packet Tracer.
+## 📌 Overview
+This project demonstrates VLAN segmentation and inter-VLAN communication using Cisco Packet Tracer. Multiple VLANs are created and connected using router-on-a-stick to enable communication between different departments.
+
 
 ## 🖥️ Network Topology
-![Topology](topology.png)
+![Topology](Topology.png)
 
-##  Features
+
+## ⚙️ Features
 - VLAN creation and port assignment  
 - Trunk configuration between switches  
 - Inter-VLAN routing using router-on-a-stick  
 - Connectivity verification using ICMP (ping)  
+
+
+## 🛠️ Tech Stack
+- Cisco Packet Tracer  
+- VLAN (IEEE 802.1Q)  
+- TCP/IP  
+- Routing & Switching  
+
 
 ## 🎥 Demo Video
 https://youtu.be/Dag6GWJk9JY
 
 
 ## 📊 Result
-✔ Successful inter-VLAN communication achieved  
+✔ Successful communication between VLAN 10, 20, and 30  
+✔ Inter-VLAN routing verified using ping  
 
-# Author
+---
+
+## 📁 Project Files
+- `project1vlan.pkt` → Packet Tracer file  
+- `Topology.png` → Network diagram  
+
+---
+
+## 👨‍💻 Author
 Harsh Yadav
 
